@@ -16,7 +16,7 @@ Project content:
 
 ## Getting started
 
-To set up this repo create a folder for the project on your system (instructions for windows), open a terminal window, write "cd" and paste the folder path `cd "C:\Users\user\path\to\your\folder"`. Then type `git clone https://github.com/Yesitin/AI-work-colleague.git` to download the whole repository (ensure that you have installed python and git). 
+To set up this repo create a folder for the project on your system (instructions for windows), open a terminal window, write "cd" and paste the folder path `cd "C:\Users\user\path\to\your\folder"`. Then type `git clone https://github.com/Yesitin/AI-work-colleague.git](https://github.com/Yesitin/AI-Agent-Mail-Inquiries.git` to download the whole repository (ensure that you have installed python and git). 
 
 Next, create a virtual environment in order to avoid dependency conflicts. For this, type into the terminal `python -m venv env`. With `env\Scripts\activate` you start the environment.
 
