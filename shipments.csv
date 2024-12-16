@@ -1,0 +1,51 @@
+departure_time,delivery_time,departure_location,departure_country,delivery_location,delivery_country,type_of_goods,weight_tons,price_given_to_truck_company,price_received_from_customer,truck_company_name,customer_name,has_gps,gps_location
+2024-08-17 06-12h,2024-08-19 06-12h,Utrecht,Netherlands,Echternach,Luxembourg,Furniture,24.99,3487.18,3997.39,Morrison LLC,"Clark, Brooks and Young",1,Fletcherburgh
+2024-08-19 07-16h,2024-08-22 08-18h,Vatican City,Vatican City,Birkirkara,Malta,Electronics,26.56,2792.21,3579.07,Warren Ltd,Glover-Richardson,1,Matthewborough
+2024-08-19 07-16h,2024-08-27 07-16h,Tallinn,Estonia,Echternach,Luxembourg,Chemicals,12.56,1837.77,2192.8,Hart Group,Martin-Davis,0,
+2024-08-20 08-18h,2024-08-21 06-12h,Esch-sur-Alzette,Luxembourg,Vatican City,Vatican City,Clothing,11.2,1324.9,1699.87,"Jones, Williams and Robinson",Brown-Esparza,0,
+2024-08-20 06-12h,2024-08-27 07-16h,Bilbao,Spain,Warsaw,Poland,Chemicals,12.32,1266.11,1406.08,Patton-Richards,"Silva, Hall and Walker",1,Parkerberg
+2024-08-18 06-12h,2024-08-26 06-12h,Zadar,Croatia,Oulu,Finland,Furniture,22.59,2399.68,3051.74,King-Chavez,"Perez, Barron and Dixon",1,Heberttown
+2024-08-18 06-12h,2024-08-24 06-12h,Aalborg,Denmark,Ljubljana,Slovenia,Chemicals,14.35,1886.99,2385.16,Ortiz-Nguyen,Mullen LLC,0,
+2024-08-20 08-18h,2024-08-30 06-12h,Kranj,Slovenia,Nitra,Slovakia,Automobile Parts,13.67,1449.16,1865.43,"Hall, Marshall and Powell",West Inc,1,Joshuastad
+2024-08-18 06-12h,2024-08-26 06-12h,Celje,Slovenia,Moneghetti,Monaco,Electronics,9.44,1187.61,1368.25,Brown-Wagner,Johnson-Owens,1,Jermainehaven
+2024-08-18 07-16h,2024-08-27 08-18h,Galway,Ireland,Munich,Germany,Automobile Parts,24.98,2753.12,3176.88,Peters-Novak,Anderson PLC,0,
+2024-08-18 07-16h,2024-08-24 08-18h,Trnava,Slovakia,Vilnius,Lithuania,Automobile Parts,27.21,3754.63,4716.31,Jenkins-Wallace,"Carpenter, Gonzalez and Perez",0,
+2024-08-19 08-18h,2024-08-27 08-18h,Innsbruck,Austria,Šiauliai,Lithuania,Automobile Parts,12.12,1544.08,1727.3,"Faulkner, Garcia and Stuart",Jones and Sons,0,
+2024-08-17 06-12h,2024-08-19 06-12h,Klaipeda,Lithuania,Serravalle,San Marino,Furniture,27.53,3921.71,5020.84,"Farrell, Diaz and Manning",Sanford Ltd,1,Peckchester
+2024-08-20 06-12h,2024-08-24 08-18h,Utrecht,Netherlands,Bilbao,Spain,Clothing,16.85,2118.84,2444.91,Hernandez LLC,Maldonado Group,1,Jacobport
+2024-08-19 07-16h,2024-08-22 06-12h,Uppsala,Sweden,Rome,Italy,Food,6.48,868.99,1084.74,Lynch Ltd,"Gates, Vaughan and Crane",0,
+2024-08-20 06-12h,2024-08-23 08-18h,Nitra,Slovakia,Sliema,Malta,Clothing,7.65,1119.54,1276.97,"Curry, Evans and Perez",Smith-Henson,1,New Timothytown
+2024-08-18 06-12h,2024-08-19 08-18h,Echternach,Luxembourg,Cluj-Napoca,Romania,Automobile Parts,11.73,1276.36,1527.62,Allen-Hansen,Johnson-Morris,0,
+2024-08-20 06-12h,2024-08-27 07-16h,Bilbao,Spain,Malmo,Sweden,Electronics,18.51,2327.85,2721.93,Spencer-Middleton,Baker LLC,0,
+2024-08-20 07-16h,2024-08-30 06-12h,Differdange,Luxembourg,Eindhoven,Netherlands,Clothing,22.68,3319.73,3692.18,Lara-Stevenson,Williams-Porter,1,East Richardburgh
+2024-08-17 07-16h,2024-08-23 08-18h,Milan,Italy,Ghent,Belgium,Clothing,22.37,2774.87,3473.48,Ewing Ltd,Henry LLC,0,
+2024-08-17 06-12h,2024-08-26 07-16h,Echternach,Luxembourg,Escaldes-Engordany,Andorra,Electronics,19.49,2590.39,3222.04,"Barnett, Robinson and Obrien",Wong Inc,1,Melissafurt
+2024-08-17 08-18h,2024-08-18 07-16h,Vatican City,Vatican City,Krakow,Poland,Food,18.05,2157.73,2604.64,Estrada-Blackwell,Braun-Walker,1,New Dianaville
+2024-08-20 07-16h,2024-08-25 07-16h,Nitra,Slovakia,Zilina,Slovakia,Food,8.2,873.86,1124.41,Scott-Thomas,Howell PLC,0,
+2024-08-18 08-18h,2024-08-25 06-12h,Brno,Czech Republic,Liepaja,Latvia,Furniture,11.97,1745.9,2182.05,Taylor Group,Barnett Ltd,0,
+2024-08-18 06-12h,2024-08-20 08-18h,Barcelona,Spain,The Hague,Netherlands,Clothing,27.28,3643.6,4470.33,Ellis Inc,Ferguson-Howard,1,Johnsonton
+2024-08-20 07-16h,2024-08-21 07-16h,Aveiro,Portugal,San Marino,San Marino,Electronics,11.54,1358.85,1725.44,Davis-Sanchez,"Jacobs, Clark and Baker",0,
+2024-08-17 07-16h,2024-08-19 06-12h,Moneghetti,Monaco,Trnava,Slovakia,Food,11.34,1239.27,1398.76,Miller-Hall,"Ray, West and Shelton",0,
+2024-08-18 08-18h,2024-08-19 08-18h,Nitra,Slovakia,Innsbruck,Austria,Furniture,22.63,2724.0,3434.64,"Anderson, Gutierrez and Young",Oneill Inc,1,Lake Donna
+2024-08-20 06-12h,2024-08-23 08-18h,Cork,Ireland,Differdange,Luxembourg,Food,22.1,2424.94,3093.35,"Thompson, Curry and Sanchez",Ferguson-Lopez,0,
+2024-08-19 06-12h,2024-08-23 06-12h,Celje,Slovenia,Malmo,Sweden,Clothing,7.2,1054.05,1315.16,Carpenter-Solis,Sampson-Newton,1,East Erika
+2024-08-17 06-12h,2024-08-27 07-16h,Echternach,Luxembourg,Jelgava,Latvia,Clothing,7.27,916.77,1063.23,"Rosario, Moody and Owen",Barnett-Meyer,0,
+2024-08-19 07-16h,2024-08-29 08-18h,Zadar,Croatia,Krakow,Poland,Furniture,25.81,3588.1,4136.79,Snyder-Skinner,Young LLC,1,Walkerview
+2024-08-20 06-12h,2024-08-25 07-16h,Helsinki,Finland,Osijek,Croatia,Food,27.75,4157.03,4713.86,"Lopez, Bryan and Smith",Snyder-Smith,0,
+2024-08-17 08-18h,2024-08-27 08-18h,Ordino,Andorra,Budapest,Hungary,Furniture,8.07,1150.31,1282.82,Smith-Butler,"Fowler, Wise and Moore",1,Randyhaven
+2024-08-20 07-16h,2024-08-27 06-12h,Stavanger,Norway,Gdansk,Poland,Chemicals,23.98,2953.07,3335.14,Sanchez Ltd,Moss-Jackson,1,South Melaniestad
+2024-08-18 08-18h,2024-08-24 08-18h,Famagusta,Cyprus,Athens,Greece,Furniture,22.01,2813.14,3292.71,"Meadows, Jones and Gonzalez","Bass, Hardin and Ward",1,East Chad
+2024-08-18 08-18h,2024-08-27 08-18h,Gdansk,Poland,Narva,Estonia,Chemicals,25.2,3330.17,3981.73,Watson PLC,Villa-Smith,0,
+2024-08-19 08-18h,2024-08-26 06-12h,Berlin,Germany,Vasteras,Sweden,Furniture,8.82,1307.51,1608.56,"Owens, Bailey and Brennan","Armstrong, Gutierrez and Dickerson",0,
+2024-08-19 08-18h,2024-08-22 08-18h,Constanta,Romania,Prague,Czech Republic,Food,21.78,2937.07,3448.26,West Group,"Lawson, Haynes and Mendez",1,Port Kenneth
+2024-08-20 08-18h,2024-08-26 07-16h,Vienna,Austria,Lisbon,Portugal,Clothing,8.04,826.02,1023.26,Williams-Boone,Whitney-Moss,0,
+2024-08-17 07-16h,2024-08-18 07-16h,Paphos,Cyprus,Bruges,Belgium,Clothing,11.14,1388.41,1533.68,Garcia and Sons,Ball Group,0,
+2024-08-17 07-16h,2024-08-27 06-12h,Toulouse,France,Riga,Latvia,Food,20.11,2037.43,2413.77,"Clark, Davis and Turner","Singh, Parker and Wyatt",1,Lake Georgefurt
+2024-08-18 06-12h,2024-08-28 06-12h,Rotterdam,Netherlands,Iasi,Romania,Chemicals,15.71,1765.23,2259.28,"Hansen, Brooks and Gonzales",Wilson Ltd,0,
+2024-08-19 07-16h,2024-08-26 08-18h,Narva,Estonia,Zilina,Slovakia,Food,5.97,795.93,963.18,Holder LLC,Bennett-Bryan,1,Jordanberg
+2024-08-19 08-18h,2024-08-28 07-16h,Andorra la Vella,Andorra,Encamp,Andorra,Chemicals,8.63,1170.02,1333.96,Kim Ltd,"Wyatt, Jensen and Jones",0,
+2024-08-20 08-18h,2024-08-23 08-18h,Daugavpils,Latvia,Differdange,Luxembourg,Automobile Parts,15.02,1557.46,2009.86,"Collins, Ortega and Swanson",Collier Inc,0,
+2024-08-17 06-12h,2024-08-26 07-16h,Trnava,Slovakia,Frankfurt,Germany,Clothing,8.63,949.94,1173.41,Gonzalez-Shaffer,Cox LLC,0,
+2024-08-17 08-18h,2024-08-26 08-18h,Panevėžys,Lithuania,Ruse,Bulgaria,Electronics,17.92,2251.16,2646.48,Paul Ltd,Randall PLC,1,North Dawnport
+2024-08-20 06-12h,2024-08-28 06-12h,Aalborg,Denmark,San Marino,San Marino,Clothing,25.71,3778.96,4774.62,Stephens-Cooper,Lowery-Hogan,1,Alexisbury
+2024-08-19 06-12h,2024-08-21 06-12h,Gothenburg,Sweden,Vatican City,Vatican City,Chemicals,22.01,3096.63,3406.87,Pittman LLC,Hobbs-Hayes,1,Williammouth
